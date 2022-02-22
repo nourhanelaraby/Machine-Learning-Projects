@@ -10,4 +10,8 @@ we are supposed to predict the number of bikes on certain days
 
 This is a classification problem to classify whether a person has diabetes or not
 
+## Content Based recommender system
+
+this is built for amazon products
+
 
